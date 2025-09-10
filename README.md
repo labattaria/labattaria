@@ -20,7 +20,7 @@ I build **scalable**, **high-performance** web applications with a strong focus 
 
 ![Backend skills](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres&perline=6&theme=dark)
 
-### Other
+### Additional
 
 ![Extra skills](https://skillicons.dev/icons?i=redux,materialui,graphql,tailwind,scss,styledcomponents&perline=6&theme=dark)
 
