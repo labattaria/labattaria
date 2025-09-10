@@ -1,10 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=1e293b&text=Nikolay%20Koreshkov&textBg=false&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer&descSize=30&descAlignY=60&descAlign=39&section=header)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Let's+build+something+amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&width=430&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Let's+build+something+amazing!)](https://git.io/typing-svg)
 
 ## About me
 
 I build **scalable**, **high-performance** web applications with a strong focus on **user experience**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-414141?style=for-the-badge)](https://labattaria-portfolio-frontend.vercel.app/)
 
 ---
 
