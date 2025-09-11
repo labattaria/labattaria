@@ -22,7 +22,11 @@ I build **scalable**, **high-performance** web applications with a strong focus 
 
 ### Additional
 
-![Extra skills](https://skillicons.dev/icons?i=redux,materialui,graphql,tailwind,scss,styledcomponents&perline=6&theme=dark)
+![Additional skills](https://skillicons.dev/icons?i=redux,materialui,graphql,tailwind,scss,styledcomponents&perline=6&theme=dark)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=vite,webpack,apollo,git,yarn,figma,vercel,heroku&perline=6&theme=dark)
 
 ---
 
