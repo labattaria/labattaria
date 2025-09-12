@@ -30,6 +30,14 @@ I build **scalable**, **high-performance** web applications with a strong focus 
 
 ---
 
+## Github Stats
+
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=labattaria&show_icons=true&theme=transparent" alt="Nikolay Koreshkov github stats" />
+</div>
+
+---
+
 ## Contacts
 
 [![Email](https://skillicons.dev/icons?i=gmail&perline=1&theme=dark)](mailto:labattarix@gmail.com)
