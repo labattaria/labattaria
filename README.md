@@ -18,15 +18,19 @@ I build **scalable**, **high-performance** web applications with a strong focus 
 
 ### Backend
 
-![Backend skills](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres&perline=6&theme=dark)
+![Backend skills](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres&perline=4&theme=dark)
+
+### Testing
+
+![Testing skills](https://skillicons.dev/icons?i=jest,vitest&perline=2&theme=dark)
 
 ### Additional
 
-![Additional skills](https://skillicons.dev/icons?i=redux,materialui,graphql,tailwind,scss,styledcomponents&perline=6&theme=dark)
+![Additional skills](https://skillicons.dev/icons?i=redux,materialui,graphql,apollo,tailwind,scss,styledcomponents&perline=7&theme=dark)
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=vite,webpack,apollo,git,yarn,figma,vercel,heroku&perline=6&theme=dark)
+![Tools](https://skillicons.dev/icons?i=vite,webpack,git,yarn,vercel,heroku,figma&perline=7&theme=dark)
 
 ---
 
